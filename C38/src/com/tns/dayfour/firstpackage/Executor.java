@@ -1,4 +1,4 @@
-package com.tns.daytwo.firstpackage;
+package com.tns.dayfour.firstpackage;
 //Program to demonstrate accessing classes and methods
 
 public class Executor {

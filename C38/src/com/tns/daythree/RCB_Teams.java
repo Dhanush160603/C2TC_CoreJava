@@ -1,5 +1,7 @@
 package com.tns.daythree;
 
+//Encapsultion
+
 public class RCB_Teams {
 	
 	private String name;

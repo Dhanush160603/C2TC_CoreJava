@@ -1,4 +1,4 @@
-package com.tns.daytwo.firstpackage;
+package com.tns.dayfour.firstpackage;
 
 import java.util.Scanner;
 

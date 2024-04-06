@@ -1,4 +1,4 @@
-package com.tns.daytwo.firstpackage;
+package com.tns.dayfour.firstpackage;
 
 ////Program to demonstrate private data members, Constructors and getter and setter methods 
 
