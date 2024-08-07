@@ -37,8 +37,7 @@ public class AirIndia implements AirFare{
 	@Override
 	public void calculate() {
 		
-		double amount;
-		amount = hours * costPerHour;
+		double amount = hours * costPerHour;
 		System.out.println("Air India Total Amount : " + String.format("%.2f", amount));
 		 	
 	}
